@@ -6,7 +6,7 @@ description: "Language Learning | Life | Thoughts"  # used in site head
 google_analytics: 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 disqus_url: https-zasman-github-io.disqus.com
-disqus_id: https-zasman-github-io.disqus.com
+disqus_id: https-zasman-github-io
 # footer details. Deleting the value would remove it from footer.
 github_username:  zasman
 stackoverflow_username: 5331859/jason-bourne
