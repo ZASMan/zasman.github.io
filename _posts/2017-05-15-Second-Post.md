@@ -6,7 +6,7 @@ date:       2017-05-15 05:00:00
 author:     "Zane"
 header-img: img/ot-alley.jpg
 comments: true
-tags: [ Life ]
+tags: [ Life, LanguageLearning ]
 ---
 
 Merhaba herkes. Türkçe öğrenmek bir amacım bu yil olu. Birçok kişi neden Türkçeyi seçtiğimi soruyor. Bu çok mantıklı sorudor. Açıklamama izin ver.
