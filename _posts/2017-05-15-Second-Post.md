@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      'First Post'
-subtitle:   'My mission, ish.'
+title:      'Second Post: Türkçe öğrendim'
+subtitle:   'Background on learning Turkish.'
 date:       2017-05-15 05:00:00
 author:     "Zane"
 header-img: img/ot-alley.jpg
