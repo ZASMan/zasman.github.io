@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      'Second Post: Türkçe öğrendim'
+title:      'Neden (Why)'
 subtitle:   'Some background on my journey learning Turkish'
 date:       2017-05-15 05:00:00
 author:     "Zane"
