@@ -4,7 +4,7 @@ title:      'Un voyage inattendu'
 subtitle:   'My experiences in Canada'
 date:       2017-05-15 05:00:00
 author:     "Zane"
-header-img: img/oratoire.jpg
+header-img: img/posts/biodome-2016.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
