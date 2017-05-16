@@ -9,14 +9,14 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-Merhaba herkes. Türkçe öğrenmek bir amacım bu yil olu. Birçok kişi neden Türkçeyi seçtiğimi soruyor. Bu çok mantıklı sorudor. Açıklamama izin ver.
+Herkese merhaba. Amacım Türkçeyi bu yıl öğrenmekti. Birçok kişi neden Türkçeyi seçtiğimi soruyor. Bu çok mantıklı bir sorudur. Açıklamama izin verin.
 
-İlk yabancı benim dilim Fransızcaydı. Üniversitedeyken Fransızca örendim, bu yüzden Fransızca konusunda iyi bir eğtim aldım. Ama sadece Fransızca öğrenmek yeterli değildi, farklı dil öğrenmeyi sevdiğime ki bulurdum. Bu yüzden, boş zamanlarımda ispanyolca ve Portekizce öğrendim. Üniversiteden sonra, ben yeni bir dil öğrenmek için çok yoktu. 
+Benim ilk yabancı benim Fransızcaydı. Üniversitedeyken Fransızca öğrendim, bu yüzden Fransızca konusunda iyi bir eğtim aldım. Ama sadece Fransızca öğrenmek yeterli değildi, farklı dil öğrenmeyi sevdiğimı buldum. Bu yüzden, boş zamanlarımda ispanyolca ve Portekizce öğrendim. Üniversiteden sonra, ben yeni bir dil öğrenmek için çok vaktım yoktu. 
 
-Her şey üç ay önce değişti. Ben yeni işe başaldı ve ben kendime daha fazla zaman vardı. Başlangıçta Alamanca öğrenmeye başaldım. Ancak, başarı duygusu bulmadım. O zamandaö Alamancayı öğrenmek için Duolingo yu kullanıyordum. Sonra, Duolingoki Türkçe için bir ders vardı gördüm. Türkçenin çok farklı bir dil olduğunu biliyordum, bu yüzden ilginç olacağını düşündüm.
+Her şey üç ay önce değişti. Yeni bir işe başaldım ve kendime ayıracak daha fazla zamanım vardı. Başlangıçta Alamanca öğrenmeye başaldım. Ancak, başarı duygusu bulmadım. O zamandlar Alamancayı öğrenmek için Duolingo yu kullanıyordum. Sonra, Duolingoda Türkçe için bir ders vardı gördüm. Türkçenin çok farklı bir dil olduğunu biliyordum, bu yüzden ilginç olacağını düşündüm.
 
-Ders şubat yapmaya başladım. En sonunda, geçen hafta dersi bitirdim. Benim Türkçe hala çok basit, ancak her gün pratik yapmaya çalışıyorum. 
+şubatta dersleri yapmaya başladım. En sonunda, geçen hafta dersi bitirdim. Benim Türkçe, hala çok basit, ancak her gün pratik yapmaya çalışıyorum. 
 
-Bazen ilerlemek çok zor görünüyor. Fakat kalbimde hatırlıyorum, küçük ilerlemen var için daha iyi.
+Bazen ilerlemek çok zor görünüyor. Ancak her geçen gün biraz pratik yaparak ilerleme kaydedebiliriz.
 
-"Tasima suyla degirmen donmez."
+"Damlaya damnlaya göl olur."
