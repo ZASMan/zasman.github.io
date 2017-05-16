@@ -33,7 +33,7 @@ Mon premier jour à Montréal était difficile. Après être arrivé, je suis al
 
 <div class='row'>
   <div class='col-md-12'>
-    <img class='img-responsive' src='img/tremblant.jpg'>
+    <img class='img-responsive' src='img/posts/tremblant.jpg'>
   </div>
   <p>Mount Tremblant, Québec. Ma première semaine de vivre au Canada, septembre 2012.</p>
  </div>
@@ -48,17 +48,17 @@ Et au cours de cette année au Canada, je me suis transformé en une meilleure p
 
 <div class='row'>
   <div class='col-md-6'>
-    <img class='img-responsive' src='img/biodome-2012.jpg'>
+    <img class='img-responsive' src='img/posts/biodome-2012.jpg'>
   </div>
   <div class='col-md-6'>
-    <img class='img-responsive' src='img/biodome-2016.jpg'>
+    <img class='img-responsive' src='img/posts/biodome-2016.jpg'>
   </div>
   <p>Biodome Montreal, janvier 2012, mon premier voyage, et janvier 2016, la dernière fois que j'ai visité. Deux personnes très différentes.</p>
 </div>
 
 <div class='row'>
   <div class='col-md-12'>
-    <img class='img-responsive' src='img/oratoire.jpg'>
+    <img class='img-responsive' src='img/posts/oratoire.jpg'>
   </div>
   <p>Oratoire St. Joseph. Juillet 2013.</p>
  </div>
