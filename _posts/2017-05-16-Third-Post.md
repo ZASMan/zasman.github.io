@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      'Un voyage inattendu'
-subtitle:   'My experiences in Canada'
+subtitle:   'Part 1 of My Experiences in Canada'
 date:       2017-05-15 05:00:00
 author:     "Zane"
 header-img: img/montreal-fall.jpg
