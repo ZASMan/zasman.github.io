@@ -46,12 +46,7 @@ J'ai assisté aux cours de langue à l'université, et j'ai gagné une meilleure
 
 Et au cours de cette année au Canada, je me suis transformé en une meilleure personne. Et après une année-là, une personne très différente a dit ses adieux et est retournée dans son pays d'origine.
 
-<div class='row'>
-  <div class='col-md-6'>
-    [biodome-2012](/img/posts/biodome-2012.jpg)
-  </div>
-  <div class='col-md-6'>
-    [biodome-2016](/img/posts/biodome-2016.jpg')
-  </div>
-  <p>Biodome Montreal, janvier 2012, mon premier voyage, et janvier 2016, la dernière fois que j'ai visité. Deux personnes très différentes.</p>
-</div>
+
+![biodome-2012]({{ site.url }}/img/posts/biodome-2012.jpg)
+[biodome-2016]({{ site.url }}/img/posts/biodome-2016.jpg')
+Biodome Montreal, janvier 2012, mon premier voyage, et janvier 2016, la dernière fois que j'ai visité. Deux personnes très différentes.</p>
