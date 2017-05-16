@@ -11,18 +11,18 @@ tags: [ Life, LanguageLearning ]
 
 Je suis américain et j'ai appris le français au Canada.
 
+Je peux comprendre très bien si cela sonne plutôt étrange comme un choix pour étudier à l'étranger. Pourquoi aller au Canada et non en France? Sûrement une expérience universitaire à l'étranger serait sans doute mieux en Europe!
+
+Aux yeux de la plupart de mes compatriotes, le Canada n'est qu'une extension de notre propre culture indigne de noter. On sait qu'on suit le hockey au Canada, qu'on fabrique du sirop d'érable, et qu'on a de la chance d'avoir un système de santé universal au Canada. Cette dernière remarque est une caractéristique plutôt distinctive. On voit aux résaux sociales des blagues qui soulignent ce fait- notamment par la blague que l'emission "Breaking Bad" n'aurait jamais lieu au Canada, car un citoyen canadien aurait toujours accès à des soins de santé gratuits et ne serait jamais obligé de fabriquer des drogues illégales pour payer le traitement médical.
+
+Mais l'autre caractéristique du Canada qui se distingue le pays des États-Unis est le fait qu'ils parlent le français au Canada, ou au moins, certaines personnes le parlent. Mais hélas, parallèle à notre connaissance collective du reste du Canada, nous ne savions pas grand-chose au sujet de cens gens qui parlaient français.
+
 <div class='row' markdown='1'>
   <div class='col-md-12' markdown='1'>
   ![tremblant]({{ site.url }}/img/posts/tremblant.jpg){: .img-responsive}
   </div>
   *Mount Tremblant, Québec. Ma première semaine de vivre au Canada, septembre 2012.*
 </div>
-
-Je peux comprendre très bien si cela sonne plutôt étrange comme un choix pour étudier à l'étranger. Pourquoi aller au Canada et non en France? Sûrement une expérience universitaire à l'étranger serait sans doute mieux en Europe!
-
- Aux yeux de la plupart de mes compatriotes, le Canada n'est qu'une extension de notre propre culture indigne de noter. On sait qu'on suit le hockey au Canada, qu'on fabrique du sirop d'érable, et qu'on a de la chance d'avoir un système de santé universal au Canada. Cette dernière remarque est une caractéristique plutôt distinctive. On voit aux résaux sociales des blagues qui soulignent ce fait- notamment par la blague que l'emission "Breaking Bad" n'aurait jamais lieu au Canada, car un citoyen canadien aurait toujours accès à des soins de santé gratuits et ne serait jamais obligé de fabriquer des drogues illégales pour payer le traitement médical.
-
-Mais l'autre caractéristique du Canada qui se distingue le pays des États-Unis est le fait qu'ils parlent le français au Canada, ou au moins, certaines personnes le parlent. Mais hélas, parallèle à notre connaissance collective du reste du Canada, nous ne savions pas grand-chose au sujet de cens gens qui parlaient français.
 
 Quelques ans avant de commencer à l'université, ma famille avait déménagé à l'état du Maine, un état assez nord du pays que certaines personnes l'associent au Canada lui-même. Dans la plupart des régions aux États-unis, la langue seconde la plus commune est sans doute l'espagnol. Par contre, au Maine, on entend le français parlé des visiteurs francophones canadiens,  et même comme la langue maternelle parmi la population de Maine elle-même. Comme en Louisiane, il existe au Maine des personnes qui ont été capables de conserver la culture francophone et bien la langue française elle-même. Alors, le français m'a paru un choix logique comme langue pour étudier.
 
