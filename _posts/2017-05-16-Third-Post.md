@@ -54,8 +54,16 @@ Mais éventuellement, la fin de semaine (comme on dit au Canada, au lieu de week
 
 J'ai assisté aux cours de langue à l'université, et j'ai gagné une meilleure connaissance de la langue française. Et hors des cours, j'ai passé mon temps avec des amis pour employer ces connaissances que j'avais gagnées.
 
-Et au cours de cette année au Canada, je me suis transformé en une meilleure personne. Et après une année-là, une personne très différente a dit ses adieux et est retournée dans son pays d'origine.
+Certaines personnes m'ont demandé comment j'étais capable de parler français au cours de mon séjour au Canada. Ils m'ont dit, par exemple, qu'il leur est dificile de parler le français avec les gens dans les rules sans passer en anglais. C'est plutôt simple, en fait.
 
+1. Je n'ai donné aucunes allusions que l'anglais était ma première langue. Par exemple, le 'r' en anglais sonne très différent du 'r' en français. Alors, avant que je suis arrivé, j'avais déjà développé mon français au point où je ne sonne pas 'très anglais.'
+2. J'ai assisté à une université francophone et j'ai fait tous mes cours en français.
+3. J'ai vécu en français. C'est-a-dire que j'ai toujours choisi de parler le français dans mes tâches quotidiennes. De plus, j'ai évité de passer mon temps avec des anglophones. Après mon rétour aux États-Unis, j'étais surpris que mon collegues qui avait étudié à l'étranger en France n'étaient pas capable de s'exprimer en français. Effectivement, ils ont passé tout leur temps parler anglais avec des autres étudiants américains. Tous mes amis étaient des canadiens francophones ou des gens d'autres pays francophones. Mais avant tout, avec les québécois. Les québécois sont SUPER ouvertes pour partager leur langue, et ils ont de la motivation puisqu'ils sont un île de francophones entourés par une océan d'anglais, et il leur est nécessaire de promouvoir leur langue.
+
+J'aimerais noter aussi qu'il fallait éviter les gens de la France qui vivent à Montréal parce qu'ils veulent saiser l'opportunité de parler l'anglais. C'est une minorité SUPER petite et j'ai connu pleine de gens agréables de la France, mais j'aimerais remarquer sur ça puisque ça me paraît drôle. Certains Français s'en vont au Canada ayant le désir d'améliorer leur anglais à Montréal. Effectivement, un Français se dit, 'Oui, j'aimerais étudier à l'étranger, mais pas en Bélgique ou en Suisse parce que c'était l'Europe. Je veux aller au Canada, mais seulement au Québec parce qu'il serait un peu TROP difficile de vivre en anglais d'ailleurs au Canada. Mais, peut-être je peux exploiter le fait que Montréal est une ville 'bilingue' et parler l'anglais un peu plus souvent que je le parlerais en France.' C'est un attitude un peu moche, mais malheursement, j'ai payé pour mon expérience au Canada pour parler le français. La langue officielle au Québec est le français, et come on dit.... quand tu seras à Rome...
+
+Au déla de l'aprentissage du français, au cours de cette année au Canada, je suis reconnaissant de dire que je me suis transformé en une meilleure personne. Et après une année-là, une personne très différente a dit ses adieux et est retournée dans son pays d'origine.
+ 
 <div class='row' markdown='1'>
   <div class='col-md-6' markdown='1'>
   ![biodome-2012]({{ site.url }}/img/posts/biodome-2012.jpg){: .img-responsive}
