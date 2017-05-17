@@ -17,13 +17,6 @@ Aux yeux de la plupart de mes compatriotes, le Canada n'est qu'une extension de 
 
 Mais l'autre caractéristique du Canada qui se distingue le pays des États-Unis est le fait qu'ils parlent le français au Canada, ou au moins, certaines personnes le parlent. Mais hélas, parallèle à notre connaissance collective du reste du Canada, nous ne savions pas grand-chose au sujet de cens gens qui parlaient français.
 
-<div class='row' markdown='1'>
-  <div class='col-md-12' markdown='1'>
-  ![tremblant]({{ site.url }}/img/posts/tremblant.jpg){: .img-responsive}
-  </div>
-  *Mount Tremblant, Québec. Ma première semaine de vivre au Canada, septembre 2012.*
-</div>
-
 Quelques ans avant de commencer à l'université, ma famille avait déménagé à l'état du Maine, un état assez nord du pays que certaines personnes l'associent au Canada lui-même. Dans la plupart des régions aux États-unis, la langue seconde la plus commune est sans doute l'espagnol. Par contre, au Maine, on entend le français parlé des visiteurs francophones canadiens,  et même comme la langue maternelle parmi la population de Maine elle-même. Comme en Louisiane, il existe au Maine des personnes qui ont été capables de conserver la culture francophone et bien la langue française elle-même. Alors, le français m'a paru un choix logique comme langue pour étudier.
 
 Sautons maintenant quelques détails de mon expérience universitaire et examinons les facteurs qui m'ont amené à choisir le Canada, et bien sûr, mes expériences au Canada elles-mêmes. 
@@ -40,14 +33,6 @@ Durant le premier voyage à Montréal, mon français était toujours très faibl
 
 Mon premier jour à Montréal était difficile. Après être arrivé, je suis allé au bureau de la responsable des dortoirs de l'université. C'était à ce moment-là que j'ai eu ma première expérience de honte de mon niveau du français. La femme au bureau avait un fort accent québécois qui était difficile à comprendre, et elle m'a demandé d'épeler mon nom afin qu'elle puisse rechercher mon dossier et me donner ma clé. Cependant, je n'avais jamais appris les lettres individuelles de l'alphabet en français. J'avais très honte, et je lui ai donné mon passeport afin qu'elle puisse voir comment mon nom est écrit. Pathétique.
 
-
-<div class='row' markdown='1'>
-  <div class='col-md-12' markdown='1'>
-  ![tremblant]({{ site.url }}/img/posts/udem.jpg){: .img-responsive}
-  </div>
-  *Visiter les dortoirs ou j'avais vécu auparavant. Janvier 2016.*
-</div>
-
 Bien que j'aie déjà quelques amis à Montréal, la plupart d'eux a vécu chez leurs parents et non au campus de l'université. Mes premières semaines à Montréal, j'étais ainsi plutot solitaire. Durant cette époque-là, les universités au Québec étaient en grève, alors le début du semestre a été retardé et il y avait moins d'étudiants vivant dans les dortoirs.
 
 Mais éventuellement, la fin de semaine (comme on dit au Canada, au lieu de week-end) est venue, et j'ai vu mes amis. Et éventuellement, des étudiants se sont installés sur mon étage des dortoirs et j'ai rencontré des gens. Et certains entre eux sont devenus comme une famille pour moi.
@@ -63,13 +48,3 @@ Certaines personnes m'ont demandé comment j'étais capable de parler français 
 J'aimerais noter aussi qu'il fallait éviter les gens de la France qui vivent à Montréal parce qu'ils veulent saiser l'opportunité de parler l'anglais. C'est une minorité SUPER petite et j'ai connu pleine de gens agréables de la France, mais j'aimerais remarquer sur ça puisque ça me paraît drôle. Certains Français s'en vont au Canada ayant le désir d'améliorer leur anglais à Montréal. Effectivement, un Français se dit, 'Oui, j'aimerais étudier à l'étranger, mais pas en Bélgique ou en Suisse parce que c'était l'Europe. Je veux aller au Canada, mais seulement au Québec parce qu'il serait un peu TROP difficile de vivre en anglais d'ailleurs au Canada. Mais, peut-être je peux exploiter le fait que Montréal est une ville 'bilingue' et parler l'anglais un peu plus souvent que je le parlerais en France.' C'est un attitude un peu moche, mais malheursement, j'ai payé pour mon expérience au Canada pour parler le français. La langue officielle au Québec est le français, et come on dit.... quand tu seras à Rome...
 
 Au déla de l'aprentissage du français, au cours de cette année au Canada, je suis reconnaissant de dire que je me suis transformé en une meilleure personne. Et après une année-là, une personne très différente a dit ses adieux et est retournée dans son pays d'origine.
- 
-<div class='row' markdown='1'>
-  <div class='col-md-6' markdown='1'>
-  ![biodome-2012]({{ site.url }}/img/posts/biodome-2012.jpg){: .img-responsive}
-  </div>
-  <div class='col-md-6' markdown='1'>
-  ![biodome-2016]({{ site.url }}/img/posts/biodome-2016.jpg){: .img-responsive}
-  </div>
-  *Biodome Montreal, janvier 2012, mon premier voyage, et janvier 2016, la dernière fois que j'ai visité. Deux personnes très différentes.*
-</div>
