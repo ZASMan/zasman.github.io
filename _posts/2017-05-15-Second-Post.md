@@ -19,4 +19,4 @@ Her şey üç ay önce değişti. Yeni bir işe başaldım ve kendime ayıracak 
 
 Bazen ilerlemek çok zor görünüyor. Ancak her geçen gün biraz pratik yaparak ilerleme kaydedebiliriz.
 
-"Damlaya damnlaya göl olur."
+"Damlaya damlaya göl olur."
