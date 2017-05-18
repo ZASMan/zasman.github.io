@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      'Profesyönel gelişim. Kişisel gelişim.'
-subtitle:   'Luck and motivation.'
+subtitle:   'The path that led to here.'
 date:       2017-05-17 05:00:00
 author:     "Zane"
 header-img: img/washington-dc-skyline.jpg
