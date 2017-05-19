@@ -17,11 +17,7 @@ Universitede olduğumuz zaman, bazen kurslarımız sadece düşünürüz. Gelece
 
 Üniversiteki son yıldima, gelecek için hiçbir planım yoktu. Ancak, birkaç firkim vardı. 
 
-Ben bir fikir insani yardımlarda çalışmaktı vardı. Veya başka ülkede ingilizce öğretmek bir fikirdi. Kişisel antrenör olabilir. 
-
-Ancak modern ekonomide için fikirlerden daha fazlasında ihtiyacın var. Deneneyime ihtiyacın var. Veya şansa ihtiyacın var.
-
-Neyse ki şansım oldu.
+Ben bir fikir insani yardımlarda çalışmaktı vardı. Veya başka ülkede ingilizce öğretmek bir fikirdi. Kişisel antrenör olabilir. Ancak modern ekonomide için fikirlerden daha fazlasında ihtiyacın var. Deneneyime ihtiyacın var. Veya şansa ihtiyacın var. Neyse ki şansım oldu.
 
 Göçmen çocuklara yardım etmek eden bir organizasyon için bir iş buldum. Harika bir fırsattı. Dünya hakkında çok öğrendim. İnsanlar için empatı buldum. İnsanlara yardım etmekten dolayı her gün mutlu oldum. 
 
@@ -29,6 +25,7 @@ Fakat sonunda, değişim gerekli oldu. Bir meydan okuma istedim. İşim değişt
 
 Seçeneklerimi değerlendirim. Ben entelektüel bir şey istedim. Ben daha yüksek maaşa ihtiyacım vardı. 
 
-Teknoloji endüstrisi benim en iyi seçenekimdi.
+Teknoloji endüstrisi benim en iyi seçenekimdi. Bu endüstri birçok farklı fırsat sunuyor. Ama ben bilimlerinde üniversite diplomam yoktu. Üniversiteye geri mi dönmeliyim?  Ülkem Avrupa'yı gibi değildir. Üniversite burada çok pahalıdır. Daha fazla ödememek istemedim. 
 
-To be continued...
+ Ancak en önemli şey, bir üniversite diplomam ihtiyacın yok.
+
