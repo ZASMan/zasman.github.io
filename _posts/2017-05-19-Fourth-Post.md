@@ -2,7 +2,7 @@
 layout:     post
 title:      'Profesyönel gelişim. Kişisel gelişim.'
 subtitle:   'The path that led to here.'
-date:       2017-05-17 05:00:00
+date:       2017-05-19 05:00:00
 author:     "Zane"
 header-img: img/washington-dc-skyline.jpg
 comments: true
