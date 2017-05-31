@@ -2,7 +2,7 @@
 layout:     post
 title:      'Arkadaşlık.'
 subtitle:   'Reflecting and appreciating.'
-date:       2017-05-19 05:00:00
+date:       2017-05-30 05:00:00
 author:     "Zane"
 header-img: img/wilmington.jpg
 comments: true
