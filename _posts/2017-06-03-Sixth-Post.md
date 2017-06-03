@@ -9,6 +9,7 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-Her gün uyandığımda ve kapımı açtığımda yaşadığımız güzel dünyaya görüyorum. Doğanın yeşılı var. Yeşılı hayat dolu. Gözlerimi gökyüzüne çevirdiğimde, mavi görüyorum. Mavi de hayat dolu. Mavi okyanusları görüyorum. Okyanuslardaki hayat mitakarını düşünemiyorum. 
+Her gün uyandığımda ve kapımı açtığımda yaşadığımız güzel dünyayı görüyorum. Doğanın yeşili var. Yeşili hayat dolu. Gözlerimi gökyüzüne çevirdiğimde, mavi görüyorum. Mavi de hayat dolu. Mavi okyanusları görüyorum. Okyanuslardaki hayat mitakarın düşünemiyorum. 
  
-Bu dünyanın hayatı güveniyoruz. Bu dünyayı tanımak deneyime minnettarım. Çocuklarımız ve çocukları için dünyaya dikkat etmeliyiz. Yaptımığmız her karar önemlidir. 
+Bu dünyanın hayatı güveniyoruz. Bu dünyayı tanımak deneyime minnettarım. Çocuklarımız ve çocukları için dünyaya dikkat etmeliyiz. Yaptığımız her karar önemlidir.
+ 
