@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      'Aşksız hayat nefessiz hayattır.'
-subtitle:   'My First TUrkish Poem.'
+subtitle:   'My First Turkish Poem.'
 date:       2017-08-13 19:00:00
 author:     "Zane"
 header-img: img/sunset.jpg
