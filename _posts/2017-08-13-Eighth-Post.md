@@ -23,6 +23,6 @@ Bana inandıgını biliyorum. <br>
 
 Tek ihtiyacım olam senden bir bakiş,<br>
 
-Ve hayatım aşkla birlikt,<br>
+Ve hayatım aşkla birlikte,<br>
 
 Hayatım nefesle birlikte. <br>
