@@ -9,11 +9,11 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-Aşksız hayat nefessiz hayattır. 
+Aşksız hayat nefessiz hayattır. <br>
 
-Aşk olduğunda hayatın anlamı var. 
+Aşk olduğunda hayatın anlamı var. <br>
 
-Geçmişimi göremiyorum. 
+Geçmişimi göremiyorum. <br>
 
 Görüyorum sadece şimdi olduğum kişiyi. <br>
 
