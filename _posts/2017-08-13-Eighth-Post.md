@@ -9,20 +9,20 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-Aşksız hayat nefessiz hayattır.
+Aşksız hayat nefessiz hayattır. <br>
 
-Aşk olduğunda hayatın anlamı var.
+Aşk olduğunda hayatın anlamı var. <br>
 
-Geçmişimi göremiyorum.
+Geçmişimi göremiyorum. <br>
 
-Görüyorum sadece şimdi olduğum kişiyi.
+Görüyorum sadece şimdi olduğum kişiyi. <br>
 
-Ancak gözlerine baktığımda.
+Ancak gözlerine baktığımda.<br>
 
-Bana inandıgını biliyorum. 
+Bana inandıgını biliyorum. <br>
 
-Tek ihtiyacım olam senden bir bakiş,
+Tek ihtiyacım olam senden bir bakiş,<br>
 
-Ve hayatım aşkla birlikt,
+Ve hayatım aşkla birlikt,<br>
 
-Hayatım nefesle birlikte. 
+Hayatım nefesle birlikte. <br>
