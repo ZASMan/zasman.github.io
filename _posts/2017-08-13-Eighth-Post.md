@@ -10,11 +10,19 @@ tags: [ Life, LanguageLearning ]
 ---
 
 Aşksız hayat nefessiz hayattır.
+
 Aşk olduğunda hayatın anlamı var.
+
 Geçmişimi göremiyorum.
+
 Görüyorum sadece şimdi olduğum kişiyi.
+
 Ancak gözlerine baktığımda.
+
 Bana inandıgını biliyorum. 
+
 Tek ihtiyacım olam senden bir bakiş,
-Ve hayatım aşkla birlikte.
+
+Ve hayatım aşkla birlikt,
+
 Hayatım nefesle birlikte. 
