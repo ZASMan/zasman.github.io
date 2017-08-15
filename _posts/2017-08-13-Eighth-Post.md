@@ -4,7 +4,7 @@ title:      'Aşksız hayat nefessiz hayattır.'
 subtitle:   'My First TUrkish Poem.'
 date:       2017-08-13 19:00:00
 author:     "Zane"
-header-img: img/sunset.jpeg
+header-img: img/sunset.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
