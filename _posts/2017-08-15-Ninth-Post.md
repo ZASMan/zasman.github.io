@@ -9,13 +9,22 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-Öyle görünüyor ki hayat çok hızlı geçiyor. 
-Toz gıbı kaybolduğumuz.
-Sonunda neyi istediğimizi öğrendik
-Rüzgardaki toz gibi hayatımız uçuyor.
-Fikir geliyor ama an gidiyor.
-İstediğimiz kişi geliyor,
-Ama zaman gidiyor,
-Hayatımız gidiyor,
-Rüzgardaki toz gibi hayatımız uçuyor,
+Öyle görünüyor ki hayat çok hızlı geçiyor. <br>
+
+Toz gıbı kaybolduğumuz. <br>
+
+Sonunda neyi istediğimizi öğrendik <br>
+
+Rüzgardaki toz gibi hayatımız uçuyor. <br>
+
+Fikir geliyor ama an gidiyor. <br>
+
+İstediğimiz kişi geliyor, <br>
+
+Ama zaman gidiyor, <br>
+
+Hayatımız gidiyor, <br>
+
+Rüzgardaki toz gibi hayatımız uçuyor, <br>
+
 Artık an yoktur, artık biz yoktur.
