@@ -4,7 +4,7 @@ title:      'Artık yoktur'
 subtitle:   'No More.'
 date:       2017-08-15 19:00:00
 author:     "Zane"
-header-img: img/post-apocalypse.jpg
+header-img: img/wasteland.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
