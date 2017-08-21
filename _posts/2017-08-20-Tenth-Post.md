@@ -23,6 +23,7 @@ Bu nedenle selamladığımızda, “selam” diyoruz, çünkü barış istiyoruz
 Yazmak için teşekkür ederim. <br> 
 
 Zane  <br> 
+__________________________________________________________________________________________________________
 
 Selam à tous et toutes, <br> 
 
