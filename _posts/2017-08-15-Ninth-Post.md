@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      'Artık yoktur'
-subtitle:   'Taking action.'
-date:       2017-06-22 19:00:00
+subtitle:   'No More.'
+date:       2017-07-15 19:00:00
 author:     "Zane"
 header-img: img/post-apocalypse.jpg
 comments: true
