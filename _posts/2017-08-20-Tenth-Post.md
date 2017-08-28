@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      'Selam'
-subtitle:   'Barış/paix/peace.'
+subtitle:   'Türkçe/français'
 date:       2017-08-20 19:00:00
 author:     "Zane"
 header-img: img/tranquility.jpg
