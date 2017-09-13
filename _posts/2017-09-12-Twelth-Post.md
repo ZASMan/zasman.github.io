@@ -8,7 +8,6 @@ header-img: img/tranquility.jpg
 comments: true
 tags: [ Life ]
 ---
-
 Where do I stand politically, overall? Do I lean to the left? Do I lean to the right? Like many Americans, I’m most likely somewhere in between. I find it difficult to agree with any particular party on all of their issues, just as our political parties today don’t agree with one another internally.
 
 So if I don’t subscribe to a particular political party, how do I develop my stance on a given political issue? It’s pretty easy for someone to get fired up and passionate about a topic and develop an opinion quickly, and stick with it stubbornly without a thorough analysis of the given issue. As Mr. Spock once said, “Insufficient facts always invite danger, captain.”  To better avoid that danger, when I observe a political issue, I take an approach of “multi disciplinary analysis”. I examine  the issue from an anthropological, emotional, environmental, economic, or historical standpoint, and possibly most importantly, I develop empathy for what the opposing sides think, which I think is critical to develop a sensible solution.. 
