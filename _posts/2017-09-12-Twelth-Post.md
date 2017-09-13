@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      'As Political as I'll get'
-subtitle:   'My Multi Disciplinary Analysis of Political Arguments'
-date:       2017-09-12 19:00:00
+title:      'Ferðalög og tungumál/Le voyage et les langues'
+subtitle:   'Travel and language: islensku/français'
+date:       2017-08-27 22:00:00
 author:     "Zane"
-header-img: img/tranquility.jpg
+header-img: img/iceland-beach.jpg
 comments: true
-tags: [ Life ]
+tags: [ Life, LanguageLearning ]
 ---
 
 Where do I stand politically, overall? Do I lean to the left? Do I lean to the right? Like many Americans, I’m most likely somewhere in between. I find it difficult to agree with any particular party on all of their issues, just as our political parties today don’t agree with one another internally.
