@@ -81,9 +81,11 @@ My opinion aside and going back to my original promise- what suggestions might I
 This has been a long essay and I very much appreciate anyone taking the time to read it. I hope that my essay has helped you to have a more open mind not only to immigration, but to think critically on all political issues. In doing so, I hope that you take it upon yourself to stay informed and make educated decisions when you take part in our participatory democracy.
 
 
-Select Sources: <br>
-*[1] http://www.nber.org/papers/w13229.pdf <br>
-[2] http://econofact.org/are-immigrants-more-likely-to-commit-crimes  <br>
-[3] http://www.pewresearch.org/fact-tank/2017/02/21/5-facts-about-crime-in-the-u-s/ <br>
-[4] http://www.fairus.org/issue/national-security/identity-and-immigration-status-911-terrorists <br>
-[5] https://www.americanprogress.org/issues/immigration/reports/2017/04/20/430736/facts-immigration-today-2017-edition/* <br>
+<p style='font-size:small'>
+  Select Sources: <br>
+  *[1] http://www.nber.org/papers/w13229.pdf <br>
+  [2] http://econofact.org/are-immigrants-more-likely-to-commit-crimes  <br>
+  [3] http://www.pewresearch.org/fact-tank/2017/02/21/5-facts-about-crime-in-the-u-s/ <br>
+  [4] http://www.fairus.org/issue/national-security/identity-and-immigration-status-911-terrorists <br>
+  [5] https://www.americanprogress.org/issues/immigration/reports/2017/04/20/430736/facts-immigration-today-2017-edition/* <br>
+</p>
