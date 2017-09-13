@@ -82,10 +82,8 @@ This has been a long essay and I very much appreciate anyone taking the time to 
 
 
 Select Sources: <br>
-*
-[1] http://www.nber.org/papers/w13229.pdf <br>
+*[1] http://www.nber.org/papers/w13229.pdf <br>
 [2] http://econofact.org/are-immigrants-more-likely-to-commit-crimes  <br>
 [3] http://www.pewresearch.org/fact-tank/2017/02/21/5-facts-about-crime-in-the-u-s/ <br>
 [4] http://www.fairus.org/issue/national-security/identity-and-immigration-status-911-terrorists <br>
-[5] https://www.americanprogress.org/issues/immigration/reports/2017/04/20/430736/facts-immigration-today-2017-edition/ <br>
-*
+[5] https://www.americanprogress.org/issues/immigration/reports/2017/04/20/430736/facts-immigration-today-2017-edition/* <br>
