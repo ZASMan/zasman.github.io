@@ -79,3 +79,13 @@ My opinion aside and going back to my original promise- what suggestions might I
 + Economic Benefits: Opponents to immigration should not be made to feel that they are doing immigrants a “favor.” Instead, people need to feel that immigrants are doing them a favor. Show people that immigrants aren’t coming to take their jobs, immigrants are coming to create jobs. Immigrants are here to start their own small businesses, and stay in one spot. Immigrants aren’t going to move to your town, start a small business, and then outsource it next year. They’re going to start up a business, and create jobs for their fellow Americans. And, while many people talk about how much we need the “high skilled” immigrants like engineers and doctors, don’t forget to remind people just how important immigrants are for providing labor in other industries such as construction, childcare (for which there should likely be more immigrants brought in to provide affordable childcare), and most importantly of all, agriculture.
 
 This has been a long essay and I very much appreciate anyone taking the time to read it. I hope that my essay has helped you to have a more open mind not only to immigration, but to think critically on all political issues. In doing so, I hope that you take it upon yourself to stay informed and make educated decisions when you take part in our participatory democracy.
+
+
+Select Sources:
+*
+[1] http://www.nber.org/papers/w13229.pdf 
+[2] http://econofact.org/are-immigrants-more-likely-to-commit-crimes 
+[3] http://www.pewresearch.org/fact-tank/2017/02/21/5-facts-about-crime-in-the-u-s/ 
+[4] http://www.fairus.org/issue/national-security/identity-and-immigration-status-911-terrorists 
+[5] https://www.americanprogress.org/issues/immigration/reports/2017/04/20/430736/facts-immigration-today-2017-edition/ 
+*
