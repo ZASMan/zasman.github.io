@@ -4,7 +4,7 @@ title:      "Hayattan istediğini edin"
 subtitle:   "Turkish"
 date:       2017-11-01 22:00:00
 author:     "Zane"
-header-img: img/21BD80E5-475C-44A8-A295-C9657DF03348.jpeg
+header-img: img/iceland_landscape.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
