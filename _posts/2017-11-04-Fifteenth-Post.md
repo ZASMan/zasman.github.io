@@ -5,7 +5,7 @@ title:      "Ferðin mín til Íslands/Călătoria mea spre Islanda
 subtitle:   "Icelandic/Romanian"
 date:       2017-11-04 17:00:00
 author:     "Zane"
-header-img: img/iceland_landscape.jpg
+header-img: img/mini_geyser.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
