@@ -8,7 +8,7 @@ header-img: img/arlington_cemetery.jpg
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
-**"Weekend cu familia**
+**Weekend cu familia** <br>
 
 Buna! Astăzi am remercat că nu am scris un blog aici de câteva luni, prin urmare cred că este un moment bun pentru să scriu o actualizare despre viața mea. 
 Totul e bine. Săptămână trecută am văzut părinții mai și sora mea. 
@@ -28,7 +28,7 @@ Deci, eu sunt fericit că am avut șansa să le văd. Astăzi este lune, și ca 
 
 <hr>
 
-**Haft asonu ailemle birlikte**
+**Hafta asonu ailemle birlikte** <br>
 
  Merhaba! Bugün uzun zamandan beri burada yazmadığım anladım, bu yüzden hayatımı tartışmak için doğru bir an düşünüyorum.
  Her şey iyidir. Geçen hafta ailem ve kız kardeşim gördüm.
