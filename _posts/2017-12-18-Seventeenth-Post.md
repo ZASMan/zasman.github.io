@@ -9,6 +9,7 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 **"Weekend cu familia**
+
 Buna! Astăzi am remercat că nu am scris un blog aici de câteva luni, prin urmare cred că este un moment bun pentru să scriu o actualizare despre viața mea. 
 Totul e bine. Săptămână trecută am văzut părinții mai și sora mea. 
 Cred că acest a fost o experiența buna pentru că a fost prima dată de câteva luni că noi am avut ocazia pentru să petrecem întreaga zi împreună. 
@@ -24,6 +25,8 @@ Dupa aceea, noi am mers la restaurant filipinez.
 Mama mea este filipineză, așadar când am fost copil, ea a preparat mâncare filipinezo de multe ori pentru noi.
 În orice caz, în ultimii ani nu am avut multe oportunități pentru a mancă acest aliment deoarece nu mai locuiesc în casa părinților mei. 
 Deci, eu sunt fericit că am avut șansa să le văd. Astăzi este lune, și ca întotdeauna, și visez deja despre weekend.
+
+<hr>
 
 **Haft asonu ailemle birlikte**
 
