@@ -4,7 +4,7 @@ title:      "Yeni başlangıç/Une nouvelle année"
 subtitle:   "Turkish/French"
 date:       2018-01-02 23:30:00
 author:     "Zane"
-header-img: img/miami_skyline.JPG
+header-img: img/miami_ocean.JPG
 comments: true
 tags: [ Life, LanguageLearning ]
 ---
