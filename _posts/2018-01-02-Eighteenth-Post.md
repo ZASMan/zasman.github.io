@@ -9,7 +9,7 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
-*Yeni başlangıç* <br>
+**Yeni başlangıç** <br>
 Dün yeni bir yıl başladım. Her zamanki gibi, kendimi geliştirmek ve yeni şeyler öğrenmek  umuyorum.
 Başarmam gereken ilk şey sağlığımı geliştirmektir çünkü şimdi… dürüstçe şişmanım.
 Ama geçmişin aksine, depresyon veya olumsuz şeyler yüzünden şişman olduğumu inanmıyorum.  
@@ -23,7 +23,7 @@ Her şeyden ve hayatımdaki tüm insanlar için tanrıya şükrediyorum. Bu yıl
 
 <hr>
 
-*Une nouvelle année* <br>
+**Une nouvelle année** <br>
 Hier j’ai commencé une nouvelle année. Comme toujours j'espère me développer d’une manière ou d’une autre et j’espère apprendre de nouvelles choses.
 Le premier objectif que j’espère réaliser est perdre quelques poids… car franchement je suis plutôt gros a l’instant.
 Mais contrairement au passé je ne suis pas gros a cause de la dépression ni des choses négatives.
