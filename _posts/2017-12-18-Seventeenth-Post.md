@@ -10,21 +10,14 @@ tags: [ Life, LanguageLearning ]
 ---
 **Weekend cu familia** <br>
 
-Buna! Astăzi am remercat că nu am scris un blog aici de câteva luni, prin urmare cred că este un moment bun pentru să scriu o actualizare despre viața mea. 
-Totul e bine. Săptămână trecută am văzut părinții mai și sora mea. 
-Cred că acest a fost o experiența buna pentru că a fost prima dată de câteva luni că noi am avut ocazia pentru să petrecem întreaga zi împreună. 
+Bună! Astăzi am remercat că nu am scris pe blog aici de câteva luni, prin urmare cred că este un moment bun pentru că scriu o actualizare despre viața mea. Totul e bine. Săptămână trecută i-am văzut părinții mei și pe sora mea. Cred că aceasta a fost o experiență bună pentru că a fost prima dată de câteva luni că am avut ocazia pentru că să petrecem întreaga zi împreună. 
 
-Vineri noapte, noi am mers la cinema pentru să noi ne uitam nou film Star Wars.
-A fost teribil… poate dezgustător. Au insultat eroul copilăriei mele, Luke Skywalker, și au insultat de asemenea memoria lui Carrie Fisher.
-Sincer vorbind, nu vreau să vorbesc mult despre acest film pentru că eu aș putea petrece toată ziua să eu o critică. 
+Vineri seara, am mers la cinema pentru că să noi ne uităm la noul film Star Wars. A fost teribil… poate dezgustător. L-au insultat pe eroul copilăriei mele, Luke Skywalker, și au insultat de asemenea memoria lui Carrie Fisher. Sincer vorbind, nu vreau să vorbesc mult despre acest film pentru că eu aș putea petrece toată ziua să eu o criticându-l. 
 
-În ziua de sâmbăta, noi am început ziua de a merge la eveniment voluntar.
-Pentru eveniment, am mers la un cimitir unde noi am pus coroane de flori la mormintele soldaților decedați pentru a comemora jertfă lor.
-A fost important pentru familia mea pentru că părinții mai erau în Forțele Aeriene.
-Dupa aceea, noi am mers la restaurant filipinez.
-Mama mea este filipineză, așadar când am fost copil, ea a preparat mâncare filipinezo de multe ori pentru noi.
-În orice caz, în ultimii ani nu am avut multe oportunități pentru a mancă acest aliment deoarece nu mai locuiesc în casa părinților mei. 
-Deci, eu sunt fericit că am avut șansa să le văd. Astăzi este lune, și ca întotdeauna, și visez deja despre weekend.
+Sâmbăta, noi am început ziua de a mergând la eveniment voluntar. Am mers la un cimitir unde noi am pus coroane de flori la mormintele soldaților decedați pentru a comemora jertfă lor. 
+
+A fost important pentru familia mea pentru că părinții mai erau în Forțele Aeriene. Dupa aceea, noi am mers la restaurant filipinez. Mama mea este filipineză, așadar când am fost copil, ea prepara mâncare filipineză de multe ori pentru noi. În orice caz, în ultimii ani nu am avut multe ocazii pentru a manca acest tip de mâncare deoarece nu mai locuiesc în casa părinților mei.  Deci, eu sunt fericit că am avut șansa să leîi văd. Astăzi este lune, și ca întotdeauna, și visez deja despre la weekend.
+
 
 <hr>
 
