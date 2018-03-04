@@ -11,8 +11,7 @@ tags: [ Life, LanguageLearning ]
 
 Uzun zamandan beri bir blog yazısı yazmadım.  Hayatımda, ne var ne yok?
 
-Geçen hafta bana bir arkadaşım ziyaret etti. 
-Başka en iyi arkadaşım o da bana ziyaret etmek geldi. Birlikte bir çok restoranta gidiyoruz.
+Geçen hafta bir arkadaşım beni ziyaret etti. Birlikte bir çok restoranta gidiyoruz.
 Şehrimde yapmak için çok aktiviteler var ama her ne zaman arkadaşım ziyaret ediyor her zaman aynı restoranlarda gidiyoruz.
 
 Bence problem yok. Eğlenceli bir şey varsa sanırım yapmaya devam etmeye iyi bir şeydir.
