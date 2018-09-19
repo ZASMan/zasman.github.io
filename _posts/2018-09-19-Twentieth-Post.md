@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Güncelleştirme"
+title:      "Yeni iş. Kötü fırsat."
 subtitle:   "Turkish"
 date:       2018-09-19 22:30:00
 author:     "Zane"
