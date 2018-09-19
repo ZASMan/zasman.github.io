@@ -2,7 +2,7 @@
 layout:     post
 title:      "Güncelleştirme"
 subtitle:   "Turkish"
-date:       2018-08-29 22:30:00
+date:       2018-09-19 22:30:00
 author:     "Zane"
 header-img: img/peaceful_landscape.jpg
 comments: true
@@ -17,4 +17,4 @@ Ama ara sıra endişelendim çünkü işim daha kolaydı. İşime kendime alış
 
 İş görüşmesinde bana yeni projeler yapacağımı ve daha deneyimli işçilerden söylediler. Bana belli ki maaşımın daha yüksek olacağını söylediler. Bu nedenle iş teklifi kabul ettim.
 
-Ama şimdiye kadar bu doğru kararı olduğunu dürüstçe emin değilim. Bekteni ve gerçeklik, bunlar iki farklı şey. Her şeyden önce ben yalnız çalışıyorum. Ikinci olarak, çalıştığım proje korkunç. 
+Ama şimdiye kadar bu doğru kararı olduğunu dürüstçe emin değilim. Bekteni ve gerçeklik, bunlar iki farklı şey. Her şeyden önce ben yalnız çalışıyorum. Ikinci olarak, çalıştığım proje korkunç. Çok hayal kırıklığına uğradım. Umarım işler iyileşir. Kariyerim çok önemli. Becerilerimi geliştirmeme yardımcı olacak fırsatları takip etmeliyim.
