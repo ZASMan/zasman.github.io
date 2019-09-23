@@ -9,14 +9,17 @@ comments: true
 tags: [ Life, LanguageLearning ]
 ---
 
+**Background/Motivation**
+
 I first contemplated learning Persian towards the end of 2017. The logic and motivation behind it was pretty simple:
 
-I wanted to prove to myself that I was indeed capable of learning a language that used a different alphabet.
-I wanted a language that wouldn’t be as difficult as something like Arabic, but with different enough vocabulary to pose a good intellectual challenge.
-I wanted a language that was dissimilar from the languages that I already knew, meaning that I would have to learn most everything from scratch.
-I wanted a language that was spoken in more than one country.
-I wanted to do something a little unique and different! Seems like 75% of hobbyist language learners learn English (if it’s not their native language) + Mandarin/Korean/Japanese + Arabic (to which no one ever seems to make any demonstrable progress sadly)
-I was curious to learn more about the Persian language, culture, and history.
+1) I wanted to prove to myself that I was indeed capable of learning a language that used a different alphabet.
+2) I wanted a language that wouldn’t be as difficult as something like Arabic, but with different enough vocabulary to pose a good intellectual challenge.
+3) I wanted a language that was dissimilar from the languages that I already knew, meaning that I would have to learn most everything from scratch.
+4) I wanted a language that was spoken in more than one country.
+5) I wanted to do something a little unique and different! Seems like 75% of hobbyist language learners learn English (if it’s not their native language) + Mandarin/Korean/Japanese + Arabic (to which no one ever seems to make any demonstrable progress sadly)
+6) I was curious to learn more about the Persian language, culture, and history.
+
 The timeline I set for myself was to begin by February 2018, when I planned on finishing a four month experiment of learning Romanian on Duolingo concurrently with Turkish to test my organization skills. Time to get started!
 
 Step 1: Reading and Writing
